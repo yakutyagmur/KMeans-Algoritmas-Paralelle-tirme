@@ -1,0 +1,2 @@
+C:\Users\YAGMUR\Desktop\a\denemeparallel\Debug\denemeparallel.exe
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Debug\kmeansparallel.exe

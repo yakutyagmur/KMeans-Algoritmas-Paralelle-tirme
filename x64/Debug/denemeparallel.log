@@ -1,0 +1,7 @@
+﻿  Main_parallel.cpp
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Main_parallel.cpp(92,16): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Main_parallel.cpp(144,46): warning C4267: 'başlatılıyor': 'size_t' - 'unsigned long' dönüşümü; veri kaybı olabilir
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Main_parallel.cpp(145,50): warning C4267: 'başlatılıyor': 'size_t' - 'unsigned long' dönüşümü; veri kaybı olabilir
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Main_parallel.cpp(153,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\YAGMUR\Desktop\a\kmeansparallel\Main_parallel.cpp(160,31): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  denemeparallel.vcxproj -> C:\Users\YAGMUR\Desktop\a\kmeansparallel\x64\Debug\kmeansparallel.exe
